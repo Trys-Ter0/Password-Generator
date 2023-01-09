@@ -1,2 +1,2 @@
 # Password-Generator
- Javascript Password generator
+ Javascript Password generato
